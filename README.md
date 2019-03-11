@@ -1,3 +1,2 @@
-# practice
-Just another repository to learn...Git
-Changes to be commited
+[My Website](http://marufjony.github.io)  
+
